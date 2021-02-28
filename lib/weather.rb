@@ -1,0 +1,3 @@
+class FINDWEATHER::weather
+
+end
